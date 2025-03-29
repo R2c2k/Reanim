@@ -992,6 +992,10 @@ local BuiltInAnimationsR15 = {
 
 local newAnimations = {
     ["twerking"] = 91014640753525,
+    ["twerk"] = 77493234914180,
+    ["lapdance"] = 18726264577,
+    ["Take The L"] = 16197768633,
+    ["Faded Shuffle"] = 15065498244,
     ["Wait love me like  I love you"] = 113197266804415,
     ["head banger (fortnite)"] = 117390128696430,
     ["egg dance ( acu saya)"] = 14765075073,
